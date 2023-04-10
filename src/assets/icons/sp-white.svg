@@ -1,9 +1,16 @@
-<svg viewBox="0 0 64 64"
-     xmlns="http://www.w3.org/2000/svg">
-
-  <path d="M 0.65537046,34.582787 32.452267,63.855301 63.791548,0.94356422 30.222644,47.722023 Z"
-        id="path3395"
-        style="fill-opacity:1;fill-rule:evenodd;stroke:none;
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120.22 180.09">
+  <defs>
+    <style>
+      .cls-1 {
         fill: #fff;
-        stroke-width:1.46761858;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:13.80000019;stroke-dasharray:none;stroke-opacity:1" />
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <polygon class="cls-1" points="60.19 180.09 41.16 142.97 79.22 142.97 60.19 180.09"/>
+      <path class="cls-1" d="M97.87,142.97L60.19,49.28,22.35,143l-22.35-.03C0,143.35,60.19,0,60.19,0l60.04,142.97h-22.35Z"/>
+    </g>
+  </g>
 </svg>
